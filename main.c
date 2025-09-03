@@ -6,4 +6,5 @@ void main() {
 
     printf("c=%c, &c=%p\n", c, &c);
     printf("c_ptr=%p\n", c_ptr);
+    printf("&c_ptr=%p\n", &c_ptr);
 }
